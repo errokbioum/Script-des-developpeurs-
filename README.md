@@ -53,9 +53,12 @@ Pour tester le projet :
 
 
 - ` donner une requette  ` :
- 
+- 
+ [requette.webm](https://github.com/user-attachments/assets/cfe316de-1700-4aa5-93aa-5a581c389de5)
+
 - [Votre Nom](https://github.com/votre_nom)
 
 ## Auteurs
+
 uête SQL suivante :
  
